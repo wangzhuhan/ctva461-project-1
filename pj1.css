@@ -1,5 +1,5 @@
 html{
-	font-family: 'Pacifico', cursive;
+	font-family: 'Permanent Marker', cursive;
 }
 .bg-header{
 	background: url(images/imges1.jpg) center center no-repeat;
@@ -12,12 +12,12 @@ html{
 	background-size: cover;
 }
 .bg-venice{
-	background: url(images/imges1.jpg) center center no-repeat;
+	background: url(images/imges3.jpg) center center no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
 }
 .bg-florence{
-	background: url(images/imges1.jpg) center center no-repeat;
+	background: url(images/imges2.jpg) center center no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
 }
