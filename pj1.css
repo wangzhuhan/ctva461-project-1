@@ -1,1 +1,23 @@
-font-family: 'Pacifico', cursive;
+html{
+	font-family: 'Pacifico', cursive;
+}
+.bg-header{
+	background: url(images/imges1.jpg) center center no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.bg-paris{
+	background: url(images/imges1.jpg) center center no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.bg-venice{
+	background: url(images/imges1.jpg) center center no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.bg-florence{
+	background: url(images/imges1.jpg) center center no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
